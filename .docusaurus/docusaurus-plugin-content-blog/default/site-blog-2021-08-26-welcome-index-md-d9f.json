@@ -1,5 +1,5 @@
 {
-  "permalink": "/physical-ai-course/blog/welcome-anusha",
+  "permalink": "/blog/welcome-anusha",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome to My AI & Robotics Journey",
@@ -9,25 +9,25 @@
     {
       "inline": false,
       "label": "Robotics",
-      "permalink": "/physical-ai-course/blog/tags/robotics",
+      "permalink": "/blog/tags/robotics",
       "description": "Robotics related posts"
     },
     {
       "inline": false,
       "label": "Programming",
-      "permalink": "/physical-ai-course/blog/tags/programming",
+      "permalink": "/blog/tags/programming",
       "description": "Programming related posts"
     },
     {
       "inline": false,
       "label": "Beginner",
-      "permalink": "/physical-ai-course/blog/tags/beginner",
+      "permalink": "/blog/tags/beginner",
       "description": "Beginner level posts"
     },
     {
       "inline": false,
       "label": "Journey",
-      "permalink": "/physical-ai-course/blog/tags/journey",
+      "permalink": "/blog/tags/journey",
       "description": "Learning journey posts"
     }
   ],
@@ -65,10 +65,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Meet the Author: Iqra",
-    "permalink": "/physical-ai-course/blog/iqra-author-introduction"
+    "permalink": "/blog/iqra-author-introduction"
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/physical-ai-course/blog/mdx-blog-post"
+    "permalink": "/blog/mdx-blog-post"
   }
 }

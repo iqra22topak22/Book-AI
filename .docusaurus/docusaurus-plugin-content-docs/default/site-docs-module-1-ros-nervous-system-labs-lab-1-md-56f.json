@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros-nervous-system/labs/lab-1.md",
   "sourceDirName": "module-1-ros-nervous-system/labs",
   "slug": "/module-1-ros-nervous-system/labs/lab-1",
-  "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/labs/lab-1",
+  "permalink": "/docs/module-1-ros-nervous-system/labs/lab-1",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros-nervous-system/labs/lab-1.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 1.1: Introduction to ROS 2 Architecture",
-    "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/lessons/lesson-1"
+    "permalink": "/docs/module-1-ros-nervous-system/lessons/lesson-1"
   },
   "next": {
     "title": "Module 1 Deliverables: ROS 2 Nervous System",
-    "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/deliverables/deliverable-1"
+    "permalink": "/docs/module-1-ros-nervous-system/deliverables/deliverable-1"
   }
 }

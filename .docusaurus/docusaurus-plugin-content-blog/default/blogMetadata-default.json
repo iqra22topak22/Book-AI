@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/physical-ai-course/blog",
+  "blogBasePath": "/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/physical-ai-course/blog/authors"
+  "authorsListPath": "/blog/authors"
 }

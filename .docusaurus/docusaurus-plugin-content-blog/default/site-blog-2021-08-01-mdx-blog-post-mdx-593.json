@@ -1,5 +1,5 @@
 {
-  "permalink": "/physical-ai-course/blog/mdx-blog-post",
+  "permalink": "/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
@@ -9,7 +9,7 @@
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/physical-ai-course/blog/tags/docusaurus",
+      "permalink": "/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
@@ -44,10 +44,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Welcome to My AI & Robotics Journey",
-    "permalink": "/physical-ai-course/blog/welcome-anusha"
+    "permalink": "/blog/welcome-anusha"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "/physical-ai-course/blog/long-blog-post"
+    "permalink": "/blog/long-blog-post"
   }
 }

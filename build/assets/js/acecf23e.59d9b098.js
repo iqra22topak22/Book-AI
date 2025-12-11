@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_ai_course=globalThis.webpackChunkphysical_ai_course||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);

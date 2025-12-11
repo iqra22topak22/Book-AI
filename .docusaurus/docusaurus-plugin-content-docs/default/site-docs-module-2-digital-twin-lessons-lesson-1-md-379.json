@@ -5,7 +5,7 @@
   "source": "@site/docs/module-2-digital-twin/lessons/lesson-1.md",
   "sourceDirName": "module-2-digital-twin/lessons",
   "slug": "/module-2-digital-twin/lessons/lesson-1",
-  "permalink": "/physical-ai-course/docs/module-2-digital-twin/lessons/lesson-1",
+  "permalink": "/docs/module-2-digital-twin/lessons/lesson-1",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin/lessons/lesson-1.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Learning Outcomes for Module 2: Digital Twin",
-    "permalink": "/physical-ai-course/docs/module-2-digital-twin/learning-outcomes"
+    "permalink": "/docs/module-2-digital-twin/learning-outcomes"
   },
   "next": {
     "title": "Lab 2.1: Creating Your First Gazebo Simulation Environment",
-    "permalink": "/physical-ai-course/docs/module-2-digital-twin/labs/lab-1"
+    "permalink": "/docs/module-2-digital-twin/labs/lab-1"
   }
 }

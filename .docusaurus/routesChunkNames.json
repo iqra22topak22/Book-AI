@@ -1,471 +1,428 @@
 {
-  "/physical-ai-course/__docusaurus/debug-ce6": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/blog-de3": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
-    }
-  },
-  "/physical-ai-course/__docusaurus/debug/config-7b9": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
-    }
-  },
-  "/physical-ai-course/__docusaurus/debug/content-300": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
+      "plugin": "36994c47"
     },
-    "__props": "__props---physical-ai-course-docusaurus-debug-content-9-e-2-b66"
-  },
-  "/physical-ai-course/__docusaurus/debug/globalData-eba": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
-    }
-  },
-  "/physical-ai-course/__docusaurus/debug/metadata-4fe": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
-    }
-  },
-  "/physical-ai-course/__docusaurus/debug/registry-6a7": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
-    }
-  },
-  "/physical-ai-course/__docusaurus/debug/routes-77d": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-docusaurus-debugb-38-8c1"
-    }
-  },
-  "/physical-ai-course/blog-fc1": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
-    },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-54-a-d25"
+        "content": "54a2c063"
       },
       {
-        "content": "content---physical-ai-course-blog-766-260"
+        "content": "7661071f"
       },
       {
-        "content": "content---physical-ai-course-blogf-4-f-0d3"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---physical-ai-course-blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---physical-ai-course-blog-925-ee7"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-8-b-1-cd9"
+    "__props": "c15d9823"
   },
-  "/physical-ai-course/blog/archive-a31": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/blog/archive-182": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "__props": "__props---physical-ai-course-blog-archive-71-f-534"
+    "__props": "f81c1134"
   },
-  "/physical-ai-course/blog/authors-1ba": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+  "/blog/authors-0b7": {
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---physical-ai-course-blog-authorsace-7b1"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "__props": "__props---physical-ai-course-blog-authors-280-091"
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
   },
-  "/physical-ai-course/blog/first-blog-post-94e": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/first-blog-post-89a": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---physical-ai-course-blog-authorsace-7b1"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "content": "content---physical-ai-course-blog-first-blog-poste-27-c3f"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
-  "/physical-ai-course/blog/iqra-author-introduction-60b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/iqra-author-introduction-358": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---physical-ai-course-blog-authorsace-7b1"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "content": "content---physical-ai-course-blog-iqra-author-introductionbc-6-77f"
+    "sidebar": "814f3328",
+    "content": "bc6fd268"
   },
-  "/physical-ai-course/blog/long-blog-post-264": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/long-blog-post-9ad": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---physical-ai-course-blog-authorsace-7b1"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "content": "content---physical-ai-course-blog-long-blog-post-736-7e0"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
-  "/physical-ai-course/blog/mdx-blog-post-daf": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/mdx-blog-post-e9f": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---physical-ai-course-blog-authorsace-7b1"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "content": "content---physical-ai-course-blog-mdx-blog-post-593-c39"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
-  "/physical-ai-course/blog/tags-400": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/blog/tags-287": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "__props": "__props---physical-ai-course-blog-tags-72-d-7e5"
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
   },
-  "/physical-ai-course/blog/tags/ai-e53": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/ai-3de": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-54-a-d25"
+        "content": "54a2c063"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-ai-817-5ad"
+    "__props": "65a6d713"
   },
-  "/physical-ai-course/blog/tags/author-b90": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/author-c52": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-54-a-d25"
+        "content": "54a2c063"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-authorb-7-c-8a8"
+    "__props": "a4059980"
   },
-  "/physical-ai-course/blog/tags/beginner-dea": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/beginner-8af": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-766-260"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-beginner-04-e-04d"
+    "__props": "8e4df3f0"
   },
-  "/physical-ai-course/blog/tags/docusaurus-d75": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/docusaurus-30d": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blogf-4-f-0d3"
-      },
-      {
-        "content": "content---physical-ai-course-blog-871-381"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---physical-ai-course-blog-925-ee7"
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-docusaurusa-0-e-612"
+    "__props": "3217192f"
   },
-  "/physical-ai-course/blog/tags/hello-2a5": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/hello-0f9": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-871-381"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-helloc-28-539"
+    "__props": "f82cd581"
   },
-  "/physical-ai-course/blog/tags/hola-f7c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/hola-00d": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-925-ee7"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-hola-60-b-9f6"
+    "__props": "5e90a9b3"
   },
-  "/physical-ai-course/blog/tags/introduction-768": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/introduction-e75": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-54-a-d25"
+        "content": "54a2c063"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-introductionc-85-f19"
+    "__props": "65ea2434"
   },
-  "/physical-ai-course/blog/tags/journey-2f6": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/journey-a3f": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-766-260"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-journeyfad-464"
+    "__props": "aff6c00f"
   },
-  "/physical-ai-course/blog/tags/programming-8ff": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/programming-716": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-766-260"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-programming-2-dd-a43"
+    "__props": "8831ab77"
   },
-  "/physical-ai-course/blog/tags/robotics-402": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/robotics-aa4": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-766-260"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-robotics-573-826"
+    "__props": "7537a2fe"
   },
-  "/physical-ai-course/blog/tags/web-development-424": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/web-development-ae3": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---physical-ai-course-blog-54-a-d25"
+        "content": "54a2c063"
       }
     ],
-    "__props": "__props---physical-ai-course-blog-tags-web-development-331-65f"
+    "__props": "4eb84fb2"
   },
-  "/physical-ai-course/blog/welcome-anusha-e41": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/welcome-anusha-95c": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---physical-ai-course-blog-authorsace-7b1"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---physical-ai-course-blog-369-d68"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---physical-ai-course-blog-814-daf",
-    "content": "content---physical-ai-course-blog-welcome-anushad-9-f-f60"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
-  "/physical-ai-course/markdown-page-59c": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/markdown-page-3d7": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---physical-ai-course-markdown-pagea-74-4c8"
+      "plugin": "a7456010"
     },
-    "content": "content---physical-ai-course-markdown-page-393-3bc"
+    "content": "393be207"
   },
-  "/physical-ai-course/docs-14f": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-66f": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---physical-ai-course-docsaba-ec2"
+      "plugin": "aba21aa0"
     }
   },
-  "/physical-ai-course/docs-c88": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---physical-ai-course-docsc-87-bd5"
+  "/docs-a69": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/physical-ai-course/docs-df8": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-c44": {
+    "__comp": "a94703ab"
   },
-  "/physical-ai-course/docs/capstone-project-cc4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-capstone-project-7-bd-d66"
+  "/docs/capstone-project-2bf": {
+    "__comp": "17896441",
+    "content": "7bd3979a"
   },
-  "/physical-ai-course/docs/glossary-465": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-glossarye-74-a95"
+  "/docs/glossary-a11": {
+    "__comp": "17896441",
+    "content": "e747ec83"
   },
-  "/physical-ai-course/docs/guides/capstone-guide-510": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-guides-capstone-guide-81-f-149"
+  "/docs/guides/capstone-guide-0d1": {
+    "__comp": "17896441",
+    "content": "81f81045"
   },
-  "/physical-ai-course/docs/instructors/overview-8b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-instructors-overviewa-42-78c"
+  "/docs/instructors/overview-a03": {
+    "__comp": "17896441",
+    "content": "a42cb036"
   },
-  "/physical-ai-course/docs/intro-405": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-intro-0-e-3-b19"
+  "/docs/intro-61d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/physical-ai-course/docs/module-1-ros-nervous-system/-d1d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-1-ros-nervous-system-f-6-f-876"
+  "/docs/module-1-ros-nervous-system/-f4b": {
+    "__comp": "17896441",
+    "content": "f6fb692f"
   },
-  "/physical-ai-course/docs/module-1-ros-nervous-system/deliverables/deliverable-1-38b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-1-ros-nervous-system-deliverables-deliverable-1-b-0-d-fdf"
+  "/docs/module-1-ros-nervous-system/deliverables/deliverable-1-db2": {
+    "__comp": "17896441",
+    "content": "b0dfb449"
   },
-  "/physical-ai-course/docs/module-1-ros-nervous-system/labs/lab-1-3ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-1-ros-nervous-system-labs-lab-156-f-3cd"
+  "/docs/module-1-ros-nervous-system/labs/lab-1-182": {
+    "__comp": "17896441",
+    "content": "56f51a7a"
   },
-  "/physical-ai-course/docs/module-1-ros-nervous-system/learning-outcomes-5d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-1-ros-nervous-system-learning-outcomes-5-a-3-984"
+  "/docs/module-1-ros-nervous-system/learning-outcomes-3e2": {
+    "__comp": "17896441",
+    "content": "5a3a9865"
   },
-  "/physical-ai-course/docs/module-1-ros-nervous-system/lessons/lesson-1-041": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-1-ros-nervous-system-lessons-lesson-1-b-4-d-3b4"
+  "/docs/module-1-ros-nervous-system/lessons/lesson-1-76a": {
+    "__comp": "17896441",
+    "content": "b4d39db0"
   },
-  "/physical-ai-course/docs/module-2-digital-twin/-1bd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-2-digital-twin-811-6f5"
+  "/docs/module-2-digital-twin/-b7a": {
+    "__comp": "17896441",
+    "content": "8113467f"
   },
-  "/physical-ai-course/docs/module-2-digital-twin/deliverables/deliverable-1-3cc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-2-digital-twin-deliverables-deliverable-17-f-5-be8"
+  "/docs/module-2-digital-twin/deliverables/deliverable-1-9e8": {
+    "__comp": "17896441",
+    "content": "7f5d2f95"
   },
-  "/physical-ai-course/docs/module-2-digital-twin/labs/lab-1-be5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-2-digital-twin-labs-lab-18-af-31d"
+  "/docs/module-2-digital-twin/labs/lab-1-e6c": {
+    "__comp": "17896441",
+    "content": "8af891b1"
   },
-  "/physical-ai-course/docs/module-2-digital-twin/learning-outcomes-e14": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-2-digital-twin-learning-outcomes-8-e-9-2af"
+  "/docs/module-2-digital-twin/learning-outcomes-b92": {
+    "__comp": "17896441",
+    "content": "8e9c1cf8"
   },
-  "/physical-ai-course/docs/module-2-digital-twin/lessons/lesson-1-d42": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-2-digital-twin-lessons-lesson-1379-3c8"
+  "/docs/module-2-digital-twin/lessons/lesson-1-c24": {
+    "__comp": "17896441",
+    "content": "3798d514"
   },
-  "/physical-ai-course/docs/module-3-nvidia-isaac-brain/-088": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-3-nvidia-isaac-brain-c-9-c-ec5"
+  "/docs/module-3-nvidia-isaac-brain/-8fd": {
+    "__comp": "17896441",
+    "content": "c9cb8771"
   },
-  "/physical-ai-course/docs/module-3-nvidia-isaac-brain/deliverables/deliverable-1-7ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-3-nvidia-isaac-brain-deliverables-deliverable-1-c-26-61c"
+  "/docs/module-3-nvidia-isaac-brain/deliverables/deliverable-1-f02": {
+    "__comp": "17896441",
+    "content": "c268dc44"
   },
-  "/physical-ai-course/docs/module-3-nvidia-isaac-brain/labs/lab-1-643": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-3-nvidia-isaac-brain-labs-lab-1-d-6-e-fe7"
+  "/docs/module-3-nvidia-isaac-brain/labs/lab-1-07e": {
+    "__comp": "17896441",
+    "content": "d6ee5d75"
   },
-  "/physical-ai-course/docs/module-3-nvidia-isaac-brain/learning-outcomes-05a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-3-nvidia-isaac-brain-learning-outcomes-908-b25"
+  "/docs/module-3-nvidia-isaac-brain/learning-outcomes-7cb": {
+    "__comp": "17896441",
+    "content": "9084ebc6"
   },
-  "/physical-ai-course/docs/module-3-nvidia-isaac-brain/lessons/lesson-1-c2a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-3-nvidia-isaac-brain-lessons-lesson-1-cf-6-1d3"
+  "/docs/module-3-nvidia-isaac-brain/lessons/lesson-1-a9a": {
+    "__comp": "17896441",
+    "content": "cf62319b"
   },
-  "/physical-ai-course/docs/module-4-vision-language-action/-b3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-4-vision-language-action-69-d-779"
+  "/docs/module-4-vision-language-action/-69a": {
+    "__comp": "17896441",
+    "content": "69d628ad"
   },
-  "/physical-ai-course/docs/module-4-vision-language-action/deliverables/deliverable-1-bce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-4-vision-language-action-deliverables-deliverable-1-a-45-169"
+  "/docs/module-4-vision-language-action/deliverables/deliverable-1-889": {
+    "__comp": "17896441",
+    "content": "a4596701"
   },
-  "/physical-ai-course/docs/module-4-vision-language-action/labs/lab-1-c17": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-4-vision-language-action-labs-lab-1613-ca9"
+  "/docs/module-4-vision-language-action/labs/lab-1-7e8": {
+    "__comp": "17896441",
+    "content": "613c6dfd"
   },
-  "/physical-ai-course/docs/module-4-vision-language-action/learning-outcomes-6b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-4-vision-language-action-learning-outcomesf-13-37c"
+  "/docs/module-4-vision-language-action/learning-outcomes-404": {
+    "__comp": "17896441",
+    "content": "f13d1982"
   },
-  "/physical-ai-course/docs/module-4-vision-language-action/lessons/lesson-1-cea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-module-4-vision-language-action-lessons-lesson-1519-d1d"
+  "/docs/module-4-vision-language-action/lessons/lesson-1-5f0": {
+    "__comp": "17896441",
+    "content": "5192b4c3"
   },
-  "/physical-ai-course/docs/reference/ros-isaac-components-55b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-reference-ros-isaac-componentsf-5-e-bd7"
+  "/docs/reference/ros-isaac-components-49f": {
+    "__comp": "17896441",
+    "content": "f5e2a860"
   },
-  "/physical-ai-course/docs/timeline-bb6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-timelineeff-afb"
+  "/docs/timeline-d3d": {
+    "__comp": "17896441",
+    "content": "effd3c61"
   },
-  "/physical-ai-course/docs/tutorial-basics/congratulations-05a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-basics-congratulations-822-078"
+  "/docs/tutorial-basics/congratulations-70e": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
-  "/physical-ai-course/docs/tutorial-basics/create-a-blog-post-277": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-basics-create-a-blog-post-533-629"
+  "/docs/tutorial-basics/create-a-blog-post-315": {
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
-  "/physical-ai-course/docs/tutorial-basics/create-a-document-661": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-basics-create-a-document-1-e-4-031"
+  "/docs/tutorial-basics/create-a-document-f86": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
-  "/physical-ai-course/docs/tutorial-basics/create-a-page-2c5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-basics-create-a-page-5-c-8-6e5"
+  "/docs/tutorial-basics/create-a-page-9f6": {
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
-  "/physical-ai-course/docs/tutorial-basics/deploy-your-site-2f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-basics-deploy-your-sitef-55-a1f"
+  "/docs/tutorial-basics/deploy-your-site-b91": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
-  "/physical-ai-course/docs/tutorial-basics/markdown-features-ec6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-basics-markdown-features-18-c-902"
+  "/docs/tutorial-basics/markdown-features-272": {
+    "__comp": "17896441",
+    "content": "18c41134"
   },
-  "/physical-ai-course/docs/tutorial-extras/manage-docs-versions-166": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-extras-manage-docs-versionsdff-cdf"
+  "/docs/tutorial-extras/manage-docs-versions-a34": {
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
-  "/physical-ai-course/docs/tutorial-extras/translate-your-site-b0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorial-extras-translate-your-sitee-44-bd1"
+  "/docs/tutorial-extras/translate-your-site-739": {
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
-  "/physical-ai-course/docs/tutorials/first-ros2-package-b29": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-course-docs-tutorials-first-ros-2-packagec-1-a-ea4"
+  "/docs/tutorials/first-ros2-package-6bc": {
+    "__comp": "17896441",
+    "content": "c1a0af3c"
   },
-  "/physical-ai-course/-5d7": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+  "/-e5f": {
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---physical-ai-course-markdown-pagea-74-4c8"
+      "plugin": "a7456010"
     },
-    "config": "config---physical-ai-course-5-e-9-31b"
+    "config": "5e9f5e1a"
   }
 }

@@ -8,7 +8,7 @@ export default {
   "tagline": "A comprehensive course on embodied intelligence and humanoid robotics",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/physical-ai-course/",
+  "baseUrl": "/",
   "organizationName": "physical-ai",
   "projectName": "physical-ai-course",
   "onBrokenLinks": "throw",

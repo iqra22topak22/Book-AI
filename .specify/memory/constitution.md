@@ -1,55 +1,55 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+[SYNC_IMPACT_REPORT]
+Version change: 1.0.0 → 1.1.0 (initial physical AI book constitution with Docusaurus focus)
+Added sections: Physical AI Book Constitution with focus on Docusaurus documentation, hands-on learning approach, beginner to intermediate audience
+Templates requiring updates: ✅ updated (plan-template.md, spec-template.md, tasks-template.md adapted for book content)
+[/SYNC_IMPACT_REPORT]
+
+# Physical AI Book Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### Accuracy and Verification
+All content must be verified against official documentation sources (Docusaurus, GitHub Pages, physical AI frameworks, research papers). Claims about physical AI concepts, implementations, or techniques must be backed by authoritative sources. All content must include inline citations and references to official documentation or peer-reviewed research.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### Clarity and Accessibility
+Content must be written for a beginner to intermediate audience. Technical concepts should be explained clearly with sufficient background information. Complex topics should be broken down into digestible sections with examples and illustrations where appropriate. Writing clarity must meet Flesch-Kincaid Grade 8-10 standards.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### Hands-On Learning Approach
+Every concept introduced must be accompanied by practical, hands-on examples. Readers should be able to follow along with real implementations, experiments, or projects that reinforce theoretical concepts. Theory without practice is insufficient. Each chapter must include at least one executable example or tutorial.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### Reproducibility
+All examples, code snippets, setups, and procedures must work when followed exactly as written. Instructions should be detailed enough that readers can reproduce results from a clean environment without requiring additional undocumented steps. All code examples must be tested and validated in clean environments.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### Documentation Excellence
+Using Docusaurus as the documentation platform means maintaining high standards for navigation, searchability, and presentation. Content structure should leverage Docusaurus features for optimal user experience, including proper use of admonitions, tabs, and diagrams.
 
-### [PRINCIPLE_6_NAME]
+### Spec-Driven Content Creation
+All book content must follow the Spec-Kit Plus structure (Specs → Topics → Tasks → Artifacts). Each chapter or section must have clear specifications before writing begins. Content must be planned with clear user stories and acceptance criteria before implementation.
 
+## Content Standards
 
-[PRINCIPLE__DESCRIPTION]
+### Technical Requirements
+- Book must compile correctly using Docusaurus and deploy to GitHub Pages
+- All code examples must be properly formatted with syntax highlighting
+- Mathematical equations must be rendered using appropriate Docusaurus plugins
+- Diagrams and figures must be in scalable formats (SVG preferred)
+- All links must be validated and include fallbacks where possible
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+### Quality Benchmarks
+- Professional, polished writing with correct citations
+- 20-60 pages in length (~10,000-20,000 words)
+- Open-source compatible content (MIT/Apache-2 license)
+- All AI-generated content must be validated by human reviewers
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+## Development Workflow
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+Content must follow the Spec-Kit Plus methodology with adaptations for documentation:
+1. Specs: Define chapters with user stories and success criteria
+2. Plan: Detail technical approach and project structure
+3. Tasks: Break down into specific writing/implementation tasks
+4. Implementation: Write and validate content
+5. Review: Verify accuracy, clarity, and reproducibility
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+Each deliverable must be reviewed against the core principles before acceptance.
 
-## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
-
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
-
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.1.0 | **Ratified**: 2025-01-01 | **Last Amended**: 2025-12-11

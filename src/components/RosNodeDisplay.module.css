@@ -1,0 +1,65 @@
+.nodeContainer {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: #f9f9f9;
+  font-family: 'Courier New', monospace;
+}
+
+.nodeName {
+  color: #2c3e50;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.nodeDescription {
+  margin-bottom: 1rem;
+  color: #555;
+}
+
+.nodeInterfaces {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.interfaceSection {
+  margin-bottom: 0.5rem;
+}
+
+.interfaceSection h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #3498db;
+}
+
+.topicItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.25rem 0;
+  border-bottom: 1px dashed #eee;
+}
+
+.topicName {
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.messageType {
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .nodeInterfaces {
+    grid-template-columns: 1fr;
+  }
+  
+  .topicItem {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

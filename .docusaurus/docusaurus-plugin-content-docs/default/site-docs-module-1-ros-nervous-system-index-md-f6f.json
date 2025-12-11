@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros-nervous-system/index",
+  "title": "Module 1: ROS 2 Nervous System",
+  "description": "Overview",
+  "source": "@site/docs/module-1-ros-nervous-system/index.md",
+  "sourceDirName": "module-1-ros-nervous-system",
+  "slug": "/module-1-ros-nervous-system/",
+  "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros-nervous-system/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics Course",
+    "permalink": "/physical-ai-course/docs/intro"
+  },
+  "next": {
+    "title": "Learning Outcomes for Module 1: ROS 2 Nervous System",
+    "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/learning-outcomes"
+  }
+}

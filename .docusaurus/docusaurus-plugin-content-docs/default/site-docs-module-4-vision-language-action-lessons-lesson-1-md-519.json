@@ -1,0 +1,24 @@
+{
+  "id": "module-4-vision-language-action/lessons/lesson-1",
+  "title": "Lesson 4.1: Introduction to Voice Processing with Whisper",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vision-language-action/lessons/lesson-1.md",
+  "sourceDirName": "module-4-vision-language-action/lessons",
+  "slug": "/module-4-vision-language-action/lessons/lesson-1",
+  "permalink": "/physical-ai-course/docs/module-4-vision-language-action/lessons/lesson-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vision-language-action/lessons/lesson-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Learning Outcomes for Module 4: Vision-Language-Action",
+    "permalink": "/physical-ai-course/docs/module-4-vision-language-action/learning-outcomes"
+  },
+  "next": {
+    "title": "Lab 4.1: Voice Command Processing with Whisper",
+    "permalink": "/physical-ai-course/docs/module-4-vision-language-action/labs/lab-1"
+  }
+}

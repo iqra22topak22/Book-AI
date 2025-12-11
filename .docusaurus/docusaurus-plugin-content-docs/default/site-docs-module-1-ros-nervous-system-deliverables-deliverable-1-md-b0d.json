@@ -1,0 +1,24 @@
+{
+  "id": "module-1-ros-nervous-system/deliverables/deliverable-1",
+  "title": "Module 1 Deliverables: ROS 2 Nervous System",
+  "description": "Overview",
+  "source": "@site/docs/module-1-ros-nervous-system/deliverables/deliverable-1.md",
+  "sourceDirName": "module-1-ros-nervous-system/deliverables",
+  "slug": "/module-1-ros-nervous-system/deliverables/deliverable-1",
+  "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/deliverables/deliverable-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros-nervous-system/deliverables/deliverable-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab 1.1: Creating Your First ROS 2 Package and Nodes",
+    "permalink": "/physical-ai-course/docs/module-1-ros-nervous-system/labs/lab-1"
+  },
+  "next": {
+    "title": "Module 2: Digital Twin",
+    "permalink": "/physical-ai-course/docs/module-2-digital-twin/"
+  }
+}

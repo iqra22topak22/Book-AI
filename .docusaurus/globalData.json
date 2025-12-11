@@ -1,0 +1,200 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-course/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-course/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "capstone-project",
+              "path": "/physical-ai-course/docs/capstone-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "glossary",
+              "path": "/physical-ai-course/docs/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/capstone-guide",
+              "path": "/physical-ai-course/docs/guides/capstone-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "instructors/overview",
+              "path": "/physical-ai-course/docs/instructors/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-course/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros-nervous-system/deliverables/deliverable-1",
+              "path": "/physical-ai-course/docs/module-1-ros-nervous-system/deliverables/deliverable-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros-nervous-system/index",
+              "path": "/physical-ai-course/docs/module-1-ros-nervous-system/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros-nervous-system/labs/lab-1",
+              "path": "/physical-ai-course/docs/module-1-ros-nervous-system/labs/lab-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros-nervous-system/learning-outcomes",
+              "path": "/physical-ai-course/docs/module-1-ros-nervous-system/learning-outcomes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros-nervous-system/lessons/lesson-1",
+              "path": "/physical-ai-course/docs/module-1-ros-nervous-system/lessons/lesson-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/deliverables/deliverable-1",
+              "path": "/physical-ai-course/docs/module-2-digital-twin/deliverables/deliverable-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/index",
+              "path": "/physical-ai-course/docs/module-2-digital-twin/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/labs/lab-1",
+              "path": "/physical-ai-course/docs/module-2-digital-twin/labs/lab-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/learning-outcomes",
+              "path": "/physical-ai-course/docs/module-2-digital-twin/learning-outcomes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/lessons/lesson-1",
+              "path": "/physical-ai-course/docs/module-2-digital-twin/lessons/lesson-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-nvidia-isaac-brain/deliverables/deliverable-1",
+              "path": "/physical-ai-course/docs/module-3-nvidia-isaac-brain/deliverables/deliverable-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-nvidia-isaac-brain/index",
+              "path": "/physical-ai-course/docs/module-3-nvidia-isaac-brain/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-nvidia-isaac-brain/labs/lab-1",
+              "path": "/physical-ai-course/docs/module-3-nvidia-isaac-brain/labs/lab-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-nvidia-isaac-brain/learning-outcomes",
+              "path": "/physical-ai-course/docs/module-3-nvidia-isaac-brain/learning-outcomes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-nvidia-isaac-brain/lessons/lesson-1",
+              "path": "/physical-ai-course/docs/module-3-nvidia-isaac-brain/lessons/lesson-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/deliverables/deliverable-1",
+              "path": "/physical-ai-course/docs/module-4-vision-language-action/deliverables/deliverable-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/index",
+              "path": "/physical-ai-course/docs/module-4-vision-language-action/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/labs/lab-1",
+              "path": "/physical-ai-course/docs/module-4-vision-language-action/labs/lab-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/learning-outcomes",
+              "path": "/physical-ai-course/docs/module-4-vision-language-action/learning-outcomes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/lessons/lesson-1",
+              "path": "/physical-ai-course/docs/module-4-vision-language-action/lessons/lesson-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/ros-isaac-components",
+              "path": "/physical-ai-course/docs/reference/ros-isaac-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "timeline",
+              "path": "/physical-ai-course/docs/timeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/physical-ai-course/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/physical-ai-course/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/physical-ai-course/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/physical-ai-course/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/physical-ai-course/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/physical-ai-course/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/physical-ai-course/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/physical-ai-course/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "tutorials/first-ros2-package",
+              "path": "/physical-ai-course/docs/tutorials/first-ros2-package",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-course/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

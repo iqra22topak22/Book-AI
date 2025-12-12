@@ -10,6 +10,8 @@ tags: ["author", "introduction", "web-development", "ai"]
 
 Welcome to my corner of the internet! My name is Iqra, and I'm passionate about technology, programming, and the ever-evolving world of artificial intelligence. I'm delighted to have the opportunity to introduce myself to you and share my journey in the tech industry.
 
+<!-- truncate -->
+
 ## My Programming Journey
 
 My journey into programming began in 2023 when I joined GIAIC, where I took my first steps into the world of coding. Starting with foundational concepts, I quickly developed a deep appreciation for how technology can solve complex problems and improve lives. What initially began as curiosity has transformed into a genuine passion for building innovative solutions.

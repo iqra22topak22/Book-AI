@@ -88,23 +88,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Modules',
+            title: 'Docs',
             items: [
               {
-                label: 'ROS 2 Nervous System',
-                to: '/docs/module-1-ros-nervous-system/intro',
+                label: 'Introduction',
+                to: '/docs/intro',
               },
               {
-                label: 'Digital Twin',
-                to: '/docs/module-2-digital-twin/intro',
+                label: 'Timeline',
+                to: '/docs/timeline',
               },
               {
-                label: 'NVIDIA Isaac Brain',
-                to: '/docs/module-3-nvidia-isaac-brain/intro',
+                label: 'Capstone Project',
+                to: '/docs/capstone-project',
               },
               {
-                label: 'Vision-Language-Action',
-                to: '/docs/module-4-vision-language-action/intro',
+                label: 'Glossary',
+                to: '/docs/glossary',
               },
             ],
           },

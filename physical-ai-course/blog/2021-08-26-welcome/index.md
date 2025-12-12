@@ -17,7 +17,9 @@ This blog is not just about my book “Physical AI & Humanoid Robotics”. It’
 
 🌟 How My Coding Journey Began
 
-I started my programming journey in 2023 with GIAIC, and in 2024, I joined SMIT. By the end of 2025, I’m still learning from both academies. Every error, every bug, and every project has made me stronger and more confident.
+I started my programming journey in 2023 with GIAIC,  By the end of 2025, I’m still learning from GIAIC academY. Every error, every bug, and every project has made me stronger and more confident.
+
+<!-- truncate -->
 
 📚 My Programming Skills
 
@@ -29,7 +31,6 @@ TypeScript & Next.js: Building modern web applications with strong and scalable 
 
 Python & Agentic AI: Creating Artificial Intelligence and advanced automation agents.
 
-Learned from SMIT:
 
 JavaScript & React: Building interactive and user-friendly frontend applications.
 

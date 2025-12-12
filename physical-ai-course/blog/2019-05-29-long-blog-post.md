@@ -11,7 +11,7 @@ This is the summary of a very long blog post,
 
 Starting this blog is more than just publishing a page on the internet — it is the beginning of a chapter I’ve been preparing for through every line of code I’ve written, every bug I’ve solved, and every dream I’ve carried within me.
 
-My name is Anusha Akhter, and this is the story of how I stepped into the world of Artificial Intelligence, Robotics, and Programming — a world that continues to shape my identity, my ambitions, and my future.
+My name is Iqra mushtaq, and this is the story of how I stepped into the world of Artificial Intelligence, Robotics, and Programming — a world that continues to shape my identity, my ambitions, and my future.
 
 🌱 How It All Began
 
@@ -66,8 +66,6 @@ From GIAIC:
 TypeScript & Next.js for modern full-stack web development
 
 Python & Agentic AI for creating intelligent systems
-
-From SMIT:
 
 JavaScript & React for building interactive interfaces
 

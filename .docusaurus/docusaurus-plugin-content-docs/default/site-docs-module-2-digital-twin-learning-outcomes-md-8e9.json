@@ -1,0 +1,24 @@
+{
+  "id": "module-2-digital-twin/learning-outcomes",
+  "title": "Learning Outcomes for Module 2: Digital Twin",
+  "description": "Week 4 Learning Outcomes",
+  "source": "@site/docs/module-2-digital-twin/learning-outcomes.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/learning-outcomes",
+  "permalink": "/docs/module-2-digital-twin/learning-outcomes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin/learning-outcomes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: Digital Twin",
+    "permalink": "/docs/module-2-digital-twin/"
+  },
+  "next": {
+    "title": "Lesson 2.1: Introduction to Digital Twin Concepts",
+    "permalink": "/docs/module-2-digital-twin/lessons/lesson-1"
+  }
+}

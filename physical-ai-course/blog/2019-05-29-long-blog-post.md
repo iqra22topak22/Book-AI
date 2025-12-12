@@ -11,7 +11,11 @@ This is the summary of a very long blog post,
 
 Starting this blog is more than just publishing a page on the internet — it is the beginning of a chapter I’ve been preparing for through every line of code I’ve written, every bug I’ve solved, and every dream I’ve carried within me.
 
+<<<<<<< HEAD
 My name is Iqra mushtaq, and this is the story of how I stepped into the world of Artificial Intelligence, Robotics, and Programming — a world that continues to shape my identity, my ambitions, and my future.
+=======
+My name is Iqra Mushtaq, and this is the story of how I stepped into the world of Artificial Intelligence, Robotics, and Programming — a world that continues to shape my identity, my ambitions, and my future.
+>>>>>>> 0c2ce6ce78dc4959b56dfaaf9a47a0ddd27133a9
 
 🌱 How It All Began
 
@@ -19,9 +23,9 @@ Every journey starts with a spark.
 
 For me, that spark was the curiosity to understand how machines think. I still remember the first time I wrote a simple “Hello World” program. It felt like I had unlocked a new language — a language that didn’t belong to any country, but to the future itself.
 
-In 2023, I joined GIAIC, one of the most influential academies in shaping my technical foundation. The next year, in 2024, I became part of SMIT, which sharpened my practical skills and introduced me to real-world development.
+In 2023, I joined GIAIC, one of the most influential academies in shaping my technical foundation. hich sharpened my practical skills and introduced me to real-world development.
 
-Today, as I continue learning from both platforms, I realize that programming isn’t just a subject — it’s a universe.
+Today, as I continue learning from GIAIC platform, I realize that programming isn’t just a subject — it’s a universe.
 
 🚀 Entering the World of Artificial Intelligence
 

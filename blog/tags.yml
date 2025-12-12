@@ -1,0 +1,59 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+author:
+  label: Author
+  permalink: /author
+  description: Author introduction posts
+
+introduction:
+  label: Introduction
+  permalink: /introduction
+  description: Introduction posts
+
+web-development:
+  label: Web Development
+  permalink: /web-development
+  description: Web development related posts
+
+ai:
+  label: AI
+  permalink: /ai
+  description: Artificial intelligence related posts
+
+robotics:
+  label: Robotics
+  permalink: /robotics
+  description: Robotics related posts
+
+programming:
+  label: Programming
+  permalink: /programming
+  description: Programming related posts
+
+journey:
+  label: Journey
+  permalink: /journey
+  description: Learning journey posts
+
+beginner:
+  label: Beginner
+  permalink: /beginner
+  description: Beginner level posts

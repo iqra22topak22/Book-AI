@@ -1,0 +1,74 @@
+{
+  "permalink": "/blog/welcome-anusha",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+  "source": "@site/blog/2021-08-26-welcome/index.md",
+  "title": "Welcome to My AI & Robotics Journey",
+  "description": "Assalam u Alaikum! My Name is Iqra Mushtaq.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Robotics",
+      "permalink": "/blog/tags/robotics",
+      "description": "Robotics related posts"
+    },
+    {
+      "inline": false,
+      "label": "Programming",
+      "permalink": "/blog/tags/programming",
+      "description": "Programming related posts"
+    },
+    {
+      "inline": false,
+      "label": "Beginner",
+      "permalink": "/blog/tags/beginner",
+      "description": "Beginner level posts"
+    },
+    {
+      "inline": false,
+      "label": "Journey",
+      "permalink": "/blog/tags/journey",
+      "description": "Learning journey posts"
+    }
+  ],
+  "readingTime": 1.18,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Iqra Mushtaq",
+      "title": "Physical AI & Robotics Developer & Student",
+      "description": "Started programming with GIAIC (TypeScript, Next.js, Python, Agentic AI) in 2023 and SMIT (JavaScript, React, HTML, CSS) in 2024. Dedicated to self-learning and building projects like this book.",
+      "url": "https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/",
+        "github": "https://github.com/iqra22topak22",
+        "x": "https://x.com/iqra17007269706"
+      },
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFQU1C9QzcGICJ9t5qC43NIXNFh_DiBvYog&s",
+      "key": "iqra_mushtaq",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome-anusha",
+    "title": "Welcome to My AI & Robotics Journey",
+    "authors": [
+      "iqra_mushtaq"
+    ],
+    "tags": [
+      "robotics",
+      "programming",
+      "beginner",
+      "journey"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Meet the Author: Iqra",
+    "permalink": "/blog/iqra-author-introduction"
+  },
+  "nextItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}

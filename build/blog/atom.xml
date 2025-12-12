@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Physical AI &amp; Humanoid Robotics Blog</title>
+    <updated>2025-12-11T10:30:34.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Physical AI &amp; Humanoid Robotics Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Meet the Author: Iqra]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/iqra-author-introduction</id>
+        <link href="https://your-docusaurus-site.example.com/blog/iqra-author-introduction"/>
+        <updated>2025-12-11T10:30:34.000Z</updated>
+        <summary type="html"><![CDATA[An introduction to Iqra, her journey in programming, and her technical skills.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to my corner of the internet! My name is Iqra, and I'm passionate about technology, programming, and the ever-evolving world of artificial intelligence. I'm delighted to have the opportunity to introduce myself to you and share my journey in the tech industry.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="my-programming-journey">My Programming Journey<a href="https://your-docusaurus-site.example.com/blog/iqra-author-introduction#my-programming-journey" class="hash-link" aria-label="Direct link to My Programming Journey" title="Direct link to My Programming Journey" translate="no">​</a></h2>
+<p>My journey into programming began in 2023 when I joined GIAIC, where I took my first steps into the world of coding. Starting with foundational concepts, I quickly developed a deep appreciation for how technology can solve complex problems and improve lives. What initially began as curiosity has transformed into a genuine passion for building innovative solutions.</p>
+<p>Since joining GIAIC, I've continuously expanded my knowledge and skills, diving into various technologies and frameworks that power today's digital landscape. Each day brings new challenges and learning opportunities that help me grow both personally and professionally.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="technical-skills">Technical Skills<a href="https://your-docusaurus-site.example.com/blog/iqra-author-introduction#technical-skills" class="hash-link" aria-label="Direct link to Technical Skills" title="Direct link to Technical Skills" translate="no">​</a></h2>
+<p>Throughout my journey in tech, I've developed proficiency in several key technologies:</p>
+<ul>
+<li class=""><strong>TypeScript</strong> - For building scalable and maintainable applications</li>
+<li class=""><strong>JavaScript</strong> - The foundation of my web development expertise</li>
+<li class=""><strong>React.js</strong> - Creating interactive and responsive user interfaces</li>
+<li class=""><strong>Next.js</strong> - Developing modern full-stack applications</li>
+<li class=""><strong>Python</strong> - Leveraging its versatility for automation and AI applications</li>
+<li class=""><strong>Agentic AI</strong> - Exploring autonomous AI systems and their applications</li>
+</ul>
+<p>These tools form the backbone of my development approach, allowing me to craft solutions that are both technically sound and user-focused.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="looking-forward">Looking Forward<a href="https://your-docusaurus-site.example.com/blog/iqra-author-introduction#looking-forward" class="hash-link" aria-label="Direct link to Looking Forward" title="Direct link to Looking Forward" translate="no">​</a></h2>
+<p>As I continue to advance in my career, I'm particularly excited about the potential of AI to revolutionize how we interact with technology. I'm constantly exploring new developments in agentic AI and machine learning, looking for ways to contribute meaningfully to this transformative field.</p>
+<p>I believe that technology should be accessible to everyone, and I aim to create solutions that bridge the gap between complex technical capabilities and everyday usability. Through continuous learning and collaboration, I hope to contribute to innovations that make a positive impact on society.</p>
+<p>Thank you for taking the time to learn about my journey and interests. I look forward to sharing more insights, tutorials, and perspectives with you in my upcoming posts!</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="connect-with-me">Connect with Me<a href="https://your-docusaurus-site.example.com/blog/iqra-author-introduction#connect-with-me" class="hash-link" aria-label="Direct link to Connect with Me" title="Direct link to Connect with Me" translate="no">​</a></h2>
+<p>Feel free to connect with me on social media to stay updated with my latest projects and thoughts on technology:</p>
+<ul>
+<li class=""><a href="https://x.com/iqra17007269706" target="_blank" rel="noopener noreferrer" class="">Follow me on X (Twitter)</a></li>
+<li class=""><a href="https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/" target="_blank" rel="noopener noreferrer" class="">Connect on LinkedIn</a></li>
+<li class=""><a href="https://github.com/iqra22topak22" target="_blank" rel="noopener noreferrer" class="">Check out my projects on GitHub</a></li>
+</ul>]]></content>
+        <author>
+            <name>Iqra Mushtaq</name>
+            <uri>https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/</uri>
+        </author>
+        <category label="Author" term="Author"/>
+        <category label="Introduction" term="Introduction"/>
+        <category label="Web Development" term="Web Development"/>
+        <category label="AI" term="AI"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to My AI & Robotics Journey]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome-anusha</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome-anusha"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Assalam u Alaikum! My Name is Iqra Mushtaq.]]></summary>
+        <content type="html"><![CDATA[<p><strong>Assalam u Alaikum! My Name is Iqra Mushtaq.</strong></p>
+<p>🤖 My Journey into Physical AI and Coding</p>
+<p>Assalam u Alaikum! My name is Iqra Mushtaq.</p>
+<p>This blog is not just about my book “Physical AI &amp; Humanoid Robotics”. It’s also the story of my journey through the world of programming — a place where I learned, built, and grew.</p>
+<p>🌟 How My Coding Journey Began</p>
+<p>I started my programming journey in 2023 with GIAIC, and in 2024 . By the end of 2025, I’m still learning from GIAIC academy. Every error, every bug, and every project has made me stronger and more confident.</p>
+<p>📚 My Programming Skills</p>
+<p>These are the essential skills I learned from both platforms:</p>
+<p>Learned from GIAIC:</p>
+<p>TypeScript &amp; Next.js: Building modern web applications with strong and scalable architecture.</p>
+<p>Python &amp; Agentic AI: Creating Artificial Intelligence and advanced automation agent.</p>
+<p>JavaScript &amp; React: Building interactive and user-friendly frontend applications.</p>
+<p>HTML &amp; CSS: Understanding the fundamental languages of the web and styling techniques.</p>
+<p>💡 My Experience Writing the Book</p>
+<p>Writing the book “Physical AI &amp; Humanoid Robotics” was an exciting experience for me. I faced many errors and challenges along the way, but solving each error felt like a new victory. Now, with this book and my new blog, I’m truly excited for what comes next.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="connect-with-me"><strong>Connect With Me:</strong><a href="https://your-docusaurus-site.example.com/blog/welcome-anusha#connect-with-me" class="hash-link" aria-label="Direct link to connect-with-me" title="Direct link to connect-with-me" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/" target="_blank" rel="noopener noreferrer" class="">Iqra Mushtaq's Profile</a></li>
+<li class=""><strong>GitHub:</strong> <a href="https://github.com/iqra22topak22" target="_blank" rel="noopener noreferrer" class="">My Projects</a></li>
+<li class=""><strong>X:</strong> <a href="https://x.com/iqra17007269706" target="_blank" rel="noopener noreferrer" class="">My Projects</a>
+Thank you for visiting!</li>
+</ul>]]></content>
+        <author>
+            <name>Iqra Mushtaq</name>
+            <uri>https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/</uri>
+        </author>
+        <category label="Robotics" term="Robotics"/>
+        <category label="Programming" term="Programming"/>
+        <category label="Beginner" term="Beginner"/>
+        <category label="Journey" term="Journey"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDX Blog Post]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/mdx-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ Creating Interactive Learning With MDX]]></summary>
+        <content type="html"><![CDATA[<p>✨ Creating Interactive Learning With MDX</p>
+<p>MDX is one of the most powerful features of modern documentation tools. It allows you to mix Markdown with React components, giving your blog posts life, depth, and interactivity — all with simplicity.</p>
+<p>Whether you're writing about AI, coding, robotics, or tutorials, MDX helps you turn your ideas into something engaging and memorable.</p>
+<p>🚀 Why MDX Makes Your Blog Powerful</p>
+<p>MDX lets you:</p>
+<p>Write simple content using Markdown</p>
+<p>Add buttons, alerts, and custom components</p>
+<p>Embed interactive examples</p>
+<p>Improve UX with animations and UI elements</p>
+<p>Create educational experiences, not just articles</p>
+<p>With MDX, your blog becomes more than text — it becomes a playground for learning.</p>
+<button>Click me!</button>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;button onClick={() =&gt; alert('button clicked!')}&gt;Click me!&lt;/button&gt;</span><br></span></code></pre></div></div>]]></content>
+        <author>
+            <name>Iqra Mushtaq</name>
+            <uri>https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/</uri>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/long-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/blog/long-blog-post"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
+<p>🌟 Stepping Into the Future: My Journey into AI, Robotics &amp; Coding</p>
+<p>Starting this blog is more than just publishing a page on the internet — it is the beginning of a chapter I’ve been preparing for through every line of code I’ve written, every bug I’ve solved, and every dream I’ve carried within me.</p>
+<p>My name is Iqra Mushtaq, and this is the story of how I stepped into the world of Artificial Intelligence, Robotics, and Programming — a world that continues to shape my identity, my ambitions, and my future.</p>
+<p>🌱 How It All Began</p>
+<p>Every journey starts with a spark.</p>
+<p>For me, that spark was the curiosity to understand how machines think. I still remember the first time I wrote a simple “Hello World” program. It felt like I had unlocked a new language — a language that didn’t belong to any country, but to the future itself.</p>
+<p>In 2023, I joined GIAIC, one of the most influential academies in shaping my technical foundation. hich sharpened my practical skills and introduced me to real-world development.</p>
+<p>Today, as I continue learning from GIAIC platform, I realize that programming isn’t just a subject — it’s a universe.</p>
+<p>🚀 Entering the World of Artificial Intelligence</p>
+<p>Artificial Intelligence was not just a topic in my syllabus — it was a turning point.
+The idea that machines can analyze, learn, make decisions, and even interact like humans fascinated me. I learned:</p>
+<p>How AI agents process information</p>
+<p>How machine learning models identify patterns</p>
+<p>How automation can transform simple tasks into intelligent workflows</p>
+<p>The more I explored AI, the more I fell in love with its endless possibilities. It taught me to think logically, experiment fearlessly, and trust the process — even when the results weren’t perfect.</p>
+<p>🤖 Discovering Robotics &amp; Physical AI</p>
+<p>While AI fascinated my mind, robotics touched my imagination.</p>
+<p>I realized that AI becomes truly powerful when it interacts with the physical world — when it takes shape in the form of humanoid robots, robotic arms, self-balancing machines, and intelligent systems.</p>
+<p>This curiosity inspired me to start writing my book, “Physical AI &amp; Humanoid Robotics.”</p>
+<p>The process was not easy:</p>
+<p>Errors felt overwhelming</p>
+<p>Circuits sometimes burned</p>
+<p>Programs refused to run</p>
+<p>Sensors acted unpredictably</p>
+<p>But every challenge was a lesson. Every failure taught me something new about persistence, creativity, and problem-solving.
+And slowly, I started seeing a version of myself I had never imagined — someone capable of building the future.</p>
+<p>💻 The Skills That Shaped Me</p>
+<p>Over time, I developed a strong foundation in programming, thanks to mentors, academies, and countless hours of practice.</p>
+<p>From GIAIC:</p>
+<p>TypeScript &amp; Next.js for modern full-stack web development</p>
+<p>Python &amp; Agentic AI for creating intelligent systems</p>
+<p>JavaScript &amp; React for building interactive interfaces</p>
+<p>HTML &amp; CSS for mastering the building blocks of the web</p>
+<p>These skills became my toolkit — tools I now use to bring my ideas to life.</p>
+<p>✨ Why I Started This Blog</p>
+<p>This blog is more than a place to write. It is:</p>
+<p>A space to share my experiences</p>
+<p>A home for my projects and ideas</p>
+<p>A journal of my growth</p>
+<p>A guide for anyone starting their own journey</p>
+<p>I want beginners, especially young girls, to read my posts and think:
+“If she can do it, I can too.”</p>
+<p>🎯 My Vision for the Future</p>
+<p>I don’t just want to learn AI and robotics — I want to create with them.</p>
+<p>I want to:</p>
+<p>Build humanoid robots</p>
+<p>Develop intelligent systems</p>
+<p>Share practical AI knowledge</p>
+<p>Inspire others to step into technology</p>
+<p>Contribute to the future of automation and robotics in Pakistan and beyond</p>
+<p>This blog will grow with me — evolving from tutorials to projects, from ideas to innovations.</p>
+<p>💬 Final Thoughts: A New Beginning</p>
+<p>Starting something new always brings a mix of excitement and nervousness.
+But I believe the first step is the most powerful one, and today, I’m proud of the step I’ve taken.</p>
+<p>If you are reading this, thank you for being here at the very beginning of my journey.
+I hope my words inspire you to explore your own potential — because the future belongs to those who dare to learn.</p>
+<p>Welcome to my world of AI, Robotics, and endless discovery.
+The journey has just begun. 🌸✨</p>]]></content>
+        <author>
+            <name>Iqra Mushtaq</name>
+            <uri>https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/first-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🌟 My First Step Into the World of AI & Robotics]]></summary>
+        <content type="html"><![CDATA[<p>🌟 My First Step Into the World of AI &amp; Robotics</p>
+<p>Writing this first blog feels incredibly special. It marks the beginning of a journey I’ve dreamed about for years — a journey into the world of Artificial Intelligence, Robotics, and Programming.</p>
+<p>For a long time, I wanted a place where I could share what I learn, what I build, and how I grow. Today, that dream finally begins.</p>
+<p>🚀 Why I Started This Blog</p>
+<p>My curiosity for technology has always pushed me forward. When I wrote my first lines of code, I realized that programming is more than just instructions — it’s a language that allows us to create, solve problems, and bring ideas to life.</p>
+<p>This blog is my way of documenting that learning process. Whether I’m working on AI models, experimenting with robotics, or fixing a stubborn bug at 2 AM, I want to bring you along with me.</p>
+<p>🤖 What You Can Expect Here</p>
+<p>Through this blog, I plan to share:</p>
+<p>My learning journey in AI, coding, and robotics</p>
+<p>Projects and experiments I’m building</p>
+<p>Tips and insights for beginners</p>
+<p>The challenges I face — and the victories that follow</p>
+<p>Updates from my book "Physical AI &amp; Humanoid Robotics"</p>
+<p>My goal is not just to teach, but to learn and grow together with anyone who is curious about technology.</p>
+<p>💬 A Message From My Heart</p>
+<p>Starting something new is always a mix of excitement and fear. But I believe every expert was once a beginner — and today, I proudly take my first step.</p>
+<p>If you're reading this, thank you for being a part of the very beginning of my journey. I hope my posts inspire you to explore your own path in technology.</p>
+<p>The best is yet to come. 🌸✨</p>]]></content>
+        <author>
+            <name>Iqra Mushtaq</name>
+            <uri>https://www.linkedin.com/in/iqramushtaq-iqra-835a342b7/</uri>
+        </author>
+        <category label="Hola" term="Hola"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+</feed>

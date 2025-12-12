@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vision-language-action/index",
+  "title": "Module 4: Vision-Language-Action",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vision-language-action/index.md",
+  "sourceDirName": "module-4-vision-language-action",
+  "slug": "/module-4-vision-language-action/",
+  "permalink": "/docs/module-4-vision-language-action/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vision-language-action/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3 Deliverables: NVIDIA Isaac Brain",
+    "permalink": "/docs/module-3-nvidia-isaac-brain/deliverables/deliverable-1"
+  },
+  "next": {
+    "title": "Learning Outcomes for Module 4: Vision-Language-Action",
+    "permalink": "/docs/module-4-vision-language-action/learning-outcomes"
+  }
+}

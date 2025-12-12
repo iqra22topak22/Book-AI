@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/index",
+  "title": "Module 2: Digital Twin",
+  "description": "Overview",
+  "source": "@site/docs/module-2-digital-twin/index.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/",
+  "permalink": "/docs/module-2-digital-twin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1 Deliverables: ROS 2 Nervous System",
+    "permalink": "/docs/module-1-ros-nervous-system/deliverables/deliverable-1"
+  },
+  "next": {
+    "title": "Learning Outcomes for Module 2: Digital Twin",
+    "permalink": "/docs/module-2-digital-twin/learning-outcomes"
+  }
+}

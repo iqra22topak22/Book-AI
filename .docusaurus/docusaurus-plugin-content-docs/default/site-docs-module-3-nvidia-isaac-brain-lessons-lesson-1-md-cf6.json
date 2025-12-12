@@ -1,0 +1,24 @@
+{
+  "id": "module-3-nvidia-isaac-brain/lessons/lesson-1",
+  "title": "Lesson 3.1: Introduction to NVIDIA Isaac Sim",
+  "description": "Overview",
+  "source": "@site/docs/module-3-nvidia-isaac-brain/lessons/lesson-1.md",
+  "sourceDirName": "module-3-nvidia-isaac-brain/lessons",
+  "slug": "/module-3-nvidia-isaac-brain/lessons/lesson-1",
+  "permalink": "/docs/module-3-nvidia-isaac-brain/lessons/lesson-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-nvidia-isaac-brain/lessons/lesson-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Learning Outcomes for Module 3: NVIDIA Isaac Brain",
+    "permalink": "/docs/module-3-nvidia-isaac-brain/learning-outcomes"
+  },
+  "next": {
+    "title": "Lab 3.1: Setting Up Isaac Sim with Robot Model",
+    "permalink": "/docs/module-3-nvidia-isaac-brain/labs/lab-1"
+  }
+}

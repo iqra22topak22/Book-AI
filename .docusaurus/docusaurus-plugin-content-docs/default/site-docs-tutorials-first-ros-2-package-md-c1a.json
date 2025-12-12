@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/first-ros2-package",
+  "title": "Tutorial: Setting Up Your First ROS 2 Package",
+  "description": "Overview",
+  "source": "@site/docs/tutorials/first-ros2-package.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/first-ros2-package",
+  "permalink": "/docs/tutorials/first-ros2-package",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/first-ros2-package.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone Project: Voice-Controlled Robot Assistant",
+    "permalink": "/docs/capstone-project"
+  },
+  "next": {
+    "title": "ROS 2 and Isaac Components Reference",
+    "permalink": "/docs/reference/ros-isaac-components"
+  }
+}

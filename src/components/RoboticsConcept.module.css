@@ -1,0 +1,72 @@
+.conceptContainer {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.conceptHeader {
+  background-color: #f8f9fa;
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.conceptTitle {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #2c3e50;
+}
+
+.difficultyBadge {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.beginner {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.intermediate {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.advanced {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.conceptBody {
+  display: flex;
+  padding: 1rem;
+}
+
+.conceptImage {
+  max-width: 200px;
+  height: auto;
+  margin-right: 1rem;
+  border-radius: 4px;
+}
+
+.conceptContent {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .conceptBody {
+    flex-direction: column;
+  }
+  
+  .conceptImage {
+    max-width: 100%;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}

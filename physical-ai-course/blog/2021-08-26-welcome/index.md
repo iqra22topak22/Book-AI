@@ -17,7 +17,11 @@ This blog is not just about my book “Physical AI & Humanoid Robotics”. It’
 
 🌟 How My Coding Journey Began
 
+<<<<<<< HEAD
 I started my programming journey in 2023 with GIAIC,  By the end of 2025, I’m still learning from GIAIC academY. Every error, every bug, and every project has made me stronger and more confident.
+=======
+I started my programming journey in 2023 with GIAIC, and in 2024 . By the end of 2025, I’m still learning from GIAIC academy. Every error, every bug, and every project has made me stronger and more confident.
+>>>>>>> 0c2ce6ce78dc4959b56dfaaf9a47a0ddd27133a9
 
 <!-- truncate -->
 
@@ -29,8 +33,12 @@ Learned from GIAIC:
 
 TypeScript & Next.js: Building modern web applications with strong and scalable architecture.
 
+<<<<<<< HEAD
 Python & Agentic AI: Creating Artificial Intelligence and advanced automation agents.
 
+=======
+Python & Agentic AI: Creating Artificial Intelligence and advanced automation agent.
+>>>>>>> 0c2ce6ce78dc4959b56dfaaf9a47a0ddd27133a9
 
 JavaScript & React: Building interactive and user-friendly frontend applications.
 

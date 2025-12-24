@@ -7,7 +7,7 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "A comprehensive course on embodied intelligence and humanoid robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://ai-book-git-main-iqra22topak22s-projects.vercel.app/",
   "baseUrl": "/",
   "organizationName": "physical-ai",
   "projectName": "physical-ai-course",
